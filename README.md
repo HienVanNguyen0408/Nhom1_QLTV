@@ -1,11 +1,11 @@
 # Nhom1_QLTV
 Leader : Nguyễn Văn Hiến
 
-Members :+> Kiều Đức Long
-         +> Đỗ Thành Đạt
-         +> Trần Trung Thiệp         
-         +> Bùi Thị Mỹ Văn
-         +> Nguyễn Thị Như Quỳnh
+Members :Kiều Đức Long
+         , Đỗ Thành Đạt
+         , Trần Trung Thiệp         
+         , Bùi Thị Mỹ Văn
+         , Nguyễn Thị Như Quỳnh
 
 # Các chức năng cần xây dựng
 Xây dựng CSDL: Hiến
