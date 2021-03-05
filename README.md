@@ -9,8 +9,8 @@ Members :Kiều Đức Long
 
 # Các chức năng cần xây dựng
 Xây dựng CSDL: Hiến
-Thiết kế giao diện:	Xây dựng giao diện cho toàn bộ chương trình : Hiến
-
+Xây dựng các giao diện cơ bản 
+Xây dựng các phần cơ bản của project
 # Module 1: Quản lí sách:	Thêm, sửa, xóa, tìm kiếm
 
     -  Long : Thêm , Sửa ,Xóa
