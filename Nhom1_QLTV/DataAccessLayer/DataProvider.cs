@@ -93,7 +93,6 @@ namespace Nhom1_QLTV.DataAccessLayer
 
             return data;
         }
-
         public object ExecuteScalar(string query, object[] parameter = null)
         {
             object data = 0;
@@ -125,5 +124,4 @@ namespace Nhom1_QLTV.DataAccessLayer
             return data;
         }
     }
-}
 }
