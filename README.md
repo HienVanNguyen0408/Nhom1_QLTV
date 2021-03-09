@@ -17,19 +17,18 @@ Xây dựng các phần cơ bản của project
     -  Quỳnh : Tìm Kiếm
 
 # Module 2: QUản lí độc giả:	Thêm, sửa, xóa, tìm kiếm
-
     -  Đạt : Thêm , sửa , xóa
     - Quỳnh : tìm kiếm
 
 # Module 3: Quản lý thông tin trả mượn:	Thêm, sửa, xóa, tìm kiếm
     - Văn : Thêm , sửa , xóa
     - QUỳnh : tìm kiếm
-  
-# Module 4: Hướng dẫn sử dụng phần mềm, chi tiết đến từng chức năng	
+# Module 4: Quản lý thông tin trả mượn:	Thêm, sửa, xóa, tìm kiếm
 
+# Module 5: Hướng dẫn sử dụng phần mềm, chi tiết đến từng chức năng	
     -  Giao diện Hướng Dẫn: faceThiệp
 
-# Module 5: Xây dựng tài liệu sử dụng phần mềm
+# Module 6: Xây dựng tài liệu sử dụng phần mềm
     -  Hướng dẫn cài đặt, vận hành : Hiến
 
-# Module 6: Chạy kiểm thử phần mềm : Hiến
+# Module 7: Chạy kiểm thử phần mềm : Hiến
