@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="DAO\BookDAO.cs" />
     <Compile Include="DataAccessLayer\DataProvider.cs" />
+    <Compile Include="GUI\fBookManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fBookManagement.Designer.cs">
+      <DependentUpon>fBookManagement.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\fLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +71,9 @@
     <Compile Include="Models\Readers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\fBookManagement.resx">
+      <DependentUpon>fBookManagement.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\fLogin.resx">
       <DependentUpon>fLogin.cs</DependentUpon>
     </EmbeddedResource>
